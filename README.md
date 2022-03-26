@@ -1,6 +1,6 @@
 # paddle-set-up
- vendor:5358
- Paddle.Checkout.open({dexster.yeong93@gmaial.com
+({vendor:5358
+ Paddle.Checkout.open({dexster.yeong93@gmail.com
  });
 Set up now
 The MIT License (MIT)
